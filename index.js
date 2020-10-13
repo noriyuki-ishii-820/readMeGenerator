@@ -72,12 +72,12 @@ inquirer
 
 ## Table of Contents
 - [Description](#description)
-- How to Install Dependencies
-- Usage
-- License
-- Contributors 
-- Tests
-- Contact the Developer
+- [How to Install Dependencies](#how-to-install-dependencies)
+- [Usage](#usage)
+- [License](#license)
+- [Contributoring](#contributing) 
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Description
 ${response.description}
