@@ -75,7 +75,7 @@ inquirer
 - [How to Install Dependencies](#how-to-install-dependencies)
 - [Usage](#usage)
 - [License](#license)
-- [Contributoring](#contributing) 
+- [Contributing](#contributing) 
 - [Tests](#tests)
 - [Questions](#questions)
 
