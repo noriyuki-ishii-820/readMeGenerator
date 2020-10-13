@@ -68,41 +68,41 @@ inquirer
     console.log(response);
 
     const textFile = `
-    # ${response.title}
+# ${response.title}
 
-    ## Table of Contents
-    - [Description] (#description)
-    - How to Install Dependencies
-    - Usage
-    - License
-    - Contributors 
-    - Tests
-    - Contact the Developer
+## Table of Contents
+- [Description] (#description)
+- How to Install Dependencies
+- Usage
+- License
+- Contributors 
+- Tests
+- Contact the Developer
 
-    ## Description
-    ${response.description}
+## Description
+${response.description}
 
-    ## How to install dependencies
-    Please use: ${response.installation}
+## How to install dependencies
+Please use: ${response.installation}
 
-    ## Usage
-    ${response.usage}
+## Usage
+${response.usage}
 
-    ## License
-    ${response.license}
+## License
+${response.license}
 
-    ## Contributing
-    ${response.contributing}
+## Contributing
+${response.contributing}
 
-    ## Tests
-    ${response.tests}
-    
-    ## Questions
-    [Email Address](mailto:${response.email})
-    [Link to my GitHub](www.github.com/${response.github})
+## Tests
+${response.tests}
+
+## Questions
+[Email Address](mailto:${response.email})
+[Link to my GitHub](www.github.com/${response.github})
 
 
-    `;
+`;
 
     fs.writeFile("readme.md", textFile, function (err) {
       if (err) {
