@@ -1,5 +1,5 @@
 
-    #h
+    #a
 
     ##Table of Contents
     - [Description] (##Description)
@@ -11,13 +11,13 @@
     - Contact the Developer
 
     ##Description
-    h
+    Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
 
     ##How to install dependencies
-    Please use: npm i
+    Please use: a
 
     ##Usage
-    h
+    a
 
     ##License
     Apache License 2.0
@@ -29,8 +29,8 @@
     
     
     ##Questions
-    [Email Address](hi)
-    [Link to my GitHub](www.github.com/h)
+    [Email Address](mailto:a)
+    [Link to my GitHub](www.github.com/a)
 
 
     

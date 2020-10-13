@@ -98,7 +98,7 @@ inquirer
     ${response.tests}
     
     ##Questions
-    [Email Address](${response.email})
+    [Email Address](mailto:${response.email})
     [Link to my GitHub](www.github.com/${response.github})
 
 
