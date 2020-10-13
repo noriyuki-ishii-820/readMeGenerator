@@ -1,8 +1,8 @@
 
-    #time machine
+    #h
 
-    ## Table of Contents
-    - Description
+    ##Table of Contents
+    - [Description] (##Description)
     - How to Install Dependencies
     - Usage
     - License
@@ -10,27 +10,27 @@
     - Tests
     - Contact the Developer
 
-    ## Description
-    this is very good
+    ##Description
+    h
 
-    ## How to install dependencies
+    ##How to install dependencies
     Please use: npm i
 
-    ## Usage
-    s
+    ##Usage
+    h
 
-    ## License
-    MIT
+    ##License
+    Apache License 2.0
 
-    ## Contributing
+    ##Contributing
     Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Also, please make sure to update tests as appropriate.
 
-    ## Tests
+    ##Tests
     
     
-    ## Contact the Developer
-    example@example.com
-    www.github.com/sss
-    a
+    ##Questions
+    [Email Address](hi)
+    [Link to my GitHub](www.github.com/h)
+
 
     

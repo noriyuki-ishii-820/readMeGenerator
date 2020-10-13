@@ -70,8 +70,8 @@ inquirer
     const textFile = `
     #${response.title}
 
-    ## Table of Contents
-    - Description
+    ##Table of Contents
+    - [Description] (##Description)
     - How to Install Dependencies
     - Usage
     - License
@@ -79,28 +79,28 @@ inquirer
     - Tests
     - Contact the Developer
 
-    ## Description
+    ##Description
     ${response.description}
 
-    ## How to install dependencies
+    ##How to install dependencies
     Please use: ${response.installation}
 
-    ## Usage
+    ##Usage
     ${response.usage}
 
-    ## License
+    ##License
     ${response.license}
 
-    ## Contributing
+    ##Contributing
     ${response.contributing}
 
-    ## Tests
+    ##Tests
     ${response.tests}
     
-    ## Questions
+    ##Questions
     [Email Address](${response.email})
     [Link to my GitHub](www.github.com/${response.github})
-    ${response.contact}
+
 
     `;
 
