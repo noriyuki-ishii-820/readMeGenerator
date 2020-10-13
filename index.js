@@ -71,7 +71,7 @@ inquirer
 # ${response.title}
 
 ## Table of Contents
-- [Description] (#description)
+- [Description](#description)
 - How to Install Dependencies
 - Usage
 - License
