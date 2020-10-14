@@ -25,15 +25,19 @@ Please use: npm i
 ## Usage
 
 ![](./img/read1.png)
+
 In the CLI the application will provide the user the necessary headers for making a good ReadMe.
 
 ![](./img/read3.png)
+
 For sections like Contributing where a template is always very useful, the application will provide one if that suits the user's requirement.
 
 ![](./img/read4.png)
+
 The application will provide a pulldown choice for the lisence section with popular options.
 
 ![](./img/read2.png)
+
 The application will print success once the readme file is generated properly.
 
 ## License
