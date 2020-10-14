@@ -24,7 +24,7 @@ Please use: npm i
 
 ## Usage
 
-// screenshots to be added
+![](./img/read1.png)
 
 ## License
 
