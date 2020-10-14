@@ -105,7 +105,7 @@ ${response.tests}
 
 `;
 
-    fs.writeFile("readme.md", textFile, function (err) {
+    fs.writeFile("goodreadme.md", textFile, function (err) {
       if (err) {
         return console.log(err);
       }
