@@ -98,7 +98,7 @@ ${response.contributing}
 ${response.tests}
 
 ## Questions
-[Email Address](mailto:${response.email})  
+[Email me!](mailto:${response.email})  
 
 [Link to my GitHub](www.github.com/${response.github})
 
