@@ -1,0 +1,22 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "## Table of Contents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noriyuki-ishii-820/readMeGenerator.git"
+  },
+  "author": "N.Ishii",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noriyuki-ishii-820/readMeGenerator/issues"
+  },
+  "homepage": "https://github.com/noriyuki-ishii-820/readMeGenerator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
