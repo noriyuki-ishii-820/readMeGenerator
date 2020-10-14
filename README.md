@@ -24,6 +24,8 @@ Please use: npm i
 
 ## Usage
 
+// screenshots to be added
+
 ## License
 
 MIT
@@ -32,10 +34,8 @@ MIT
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Also, please make sure to update tests as appropriate.
 
-## Tests
-
 ## Questions
 
-[Email Address](mailto:nishii.dev.syd@gmail.com)
+[Email Me!](mailto:nishii.dev.syd@gmail.com)
 
 [Link to my GitHub](https://github.com/noriyuki-ishii-820)
