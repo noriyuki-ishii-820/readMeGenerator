@@ -42,7 +42,7 @@ The application will print success once the readme file is generated properly.
 
 You can also find the demo video here: https://drive.google.com/file/d/11fC1fknM8Ov9xat1szN7A2Hknol3MvhG/view?usp=sharing
 
-A sample readme generated through this app is also available on this repository with the file name: sample-goodreadme.md
+A sample readme generated through this app is also available on this repository: link to the [sample-goodreadme.md](https://github.com/noriyuki-ishii-820/readMeGenerator/blob/main/sample-goodreadme.md)
 
 ## License
 
