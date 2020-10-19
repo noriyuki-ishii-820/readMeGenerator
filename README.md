@@ -40,6 +40,10 @@ The application will provide a pulldown choice for the lisence section with popu
 
 The application will print success once the readme file is generated properly.
 
+You can also find the demo video here: https://drive.google.com/file/d/11fC1fknM8Ov9xat1szN7A2Hknol3MvhG/view?usp=sharing
+
+A sample readme generated through this app is also available on this repository with the file name: sample-goodreadme.md
+
 ## License
 
 MIT

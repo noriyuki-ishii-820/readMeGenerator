@@ -1,5 +1,5 @@
 
-# a
+# Sample Project
 
 ## Table of Contents
 - [Description](#description)
@@ -11,26 +11,26 @@
 - [Questions](#questions)
 
 ## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+This is a sample project. an amazing sample.
 
 ## How to install dependencies
 Please use: npm i
 
 ## Usage
-
+sample sample
 
 ## License
-Apache License 2.0
+MIT
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Also, please make sure to update tests as appropriate.
 
 ## Tests
-
+tests are welcomed!
 
 ## Questions
-[Email Address](mailto:a)  
+[Email me!](mailto:sample@sample.com)  
 
-[Link to my GitHub](www.github.com/a)
+[Link to my GitHub](www.github.com/github-sample-account)
 
 
